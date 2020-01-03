@@ -4,6 +4,8 @@ Python File makes the API call, which returns a JSON File. It then writes the JS
 
 I used Neil Lohmann's json.h file to read JSON files from C++. Here is the link to his GitHub: https://github.com/nlohmann/json
 
+I used a free API from OpenWeatherAPI. Just sign up, and get your API Key! Here is the link: https://openweathermap.org/api
+
 Please feel free to take a look! If you plan on using any code, just make sure to give me credit
 
 *****************************************
