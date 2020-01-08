@@ -1,5 +1,6 @@
 # API
-This is a weather API application with C++ and Python.
+This is a weather API application with C++ and Python. This was a final project in my Advanced C++ Class, so I needed to implement some C++ into it. This program could be programmed all in Python as well.
+
 Python File makes the API call, which returns a JSON File. It then writes the JSON to a JSON file, where C++ reads it, then displays it in the console.
 
 I used Neil Lohmann's json.h file to read JSON files from C++. Here is the link to his GitHub: https://github.com/nlohmann/json
